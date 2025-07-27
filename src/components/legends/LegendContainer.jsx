@@ -1,7 +1,7 @@
 import Form from "react-bootstrap/Form";
 import { data } from "../../helpers/data";
 import { Container, Row, Col } from "react-bootstrap";
-import {Card, Button, } from "react-bootstrap"
+import { Card, } from "react-bootstrap";
 
 const LegendContainer = () => {
   console.log(data);
@@ -9,21 +9,24 @@ const LegendContainer = () => {
     <div>
       <Form.Control type="search" placeholder="Search legends..." />
       <Container>
-        <Row>
-          {data.map((Legend)=> (
-          <Col>
-            <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="holder.js/100px180" />
-              <Card.Body>
-                <Card.Title>Card Title</Card.Title>
-                <Card.Text>
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
-                </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
-              </Card.Body>
-            </Card>
-          </Col>
+        <Row xs={1} md={2} lg={3} xl={4}>
+          {data.map((Legend) => (
+            <Col>
+              <Card style={{ width: "18rem" }}>
+                <Card.Img variant="top" src={Legend.img} />
+                <Card.Header>
+                  <Card.Title>{Legend.name}</Card.Title>
+                  
+                  
+                </Card.Header>
+                <ul className="m-auto">
+                    {
+                        Legend.statistics.map(item =><li className="list-unstyled h5 text-start">⚽️{item} </li>)
+                    }
+                </ul>
+                <span>{Legend.official_career}</span>
+              </Card>
+            </Col>
           ))}
         </Row>
       </Container>

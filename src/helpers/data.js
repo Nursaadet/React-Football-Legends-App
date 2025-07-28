@@ -62,7 +62,7 @@ export const data = [
     official_career: "1992-2020",
   },
   {
-    id: 9,
+    id: 8,
     name: "Bobby Moore",
     img: "https://www.thesun.co.uk/wp-content/uploads/2017/01/nintchdbpict000272681981.jpg",
     statistics: ["504 Matches", "17 Goals", "4 Assists", "4 Cups"],
@@ -71,7 +71,7 @@ export const data = [
     official_career: "1958-1979",
   },
   {
-    id: 10,
+    id: 9,
     name: "Carlos Alberto",
     img: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/12/06/14810423960043.jpg",
     statistics: ["796 Matches", "72 Goals", "94 Assists", "12 Cups"],
@@ -80,7 +80,7 @@ export const data = [
     official_career: "2001-2019",
   },
   {
-    id: 11,
+    id: 10,
     name: "Cristiano Ronaldo",
     img: "https://awsimages.detik.net.id/community/media/visual/2022/10/26/cristiano-ronaldo-6.jpeg?w=600&q=90",
     statistics: ["997 Matches", "743 Goals", "236 Assists", "34 Cups"],
@@ -89,7 +89,7 @@ export const data = [
     official_career: "1995-Present",
   },
   {
-    id: 12,
+    id: 11,
     name: "Dani Alves",
     img: "https://i.pinimg.com/736x/f3/6d/2b/f36d2b620ba51444445e50f1849e7869.jpg",
     statistics: ["869 Matches", "61 Goals", "178 Assists", "41 Cups"],
@@ -97,7 +97,7 @@ export const data = [
     official_career: "2000-2023",
   },
   {
-    id: 13,
+    id: 12,
     name: "Diego Maradona",
     img: "https://cache.pressmailing.net/thumbnail/story_hires/b4f55a46-5e01-4477-9163-31ee5f35ea93/maradona-der-goldjunge.jpg.jpg",
     statistics: ["680 Matches", "345 Goals", "81 Assists", "12 Cups"],
@@ -106,7 +106,7 @@ export const data = [
     official_career: "1976-1998",
   },
   {
-    id: 14,
+    id: 13,
     name: "Didier Drogba",
     img: "https://www.shutterstock.com/preview-440/3603993di/93012d36/Shutterstock_3603993di.jpg",
     statistics: ["688 Matches", "302 Goals", "127 Assists", "19 Cups"],
@@ -115,7 +115,7 @@ export const data = [
     official_career: "1991-2019",
   },
   {
-    id: 15,
+    id: 14,
     name: "Djalma Santos",
     img: "https://i.bigenc.ru/resizer/resize?sign=BYtmwrUBhac3SbhKy4M3fw&filename=vault/d011d74575787af4ac47ccbabe4274e8.webp&width=1200",
     statistics: ["1062 Matches", "26 Goals", "2 Assists", "3 Cups"],
@@ -124,7 +124,7 @@ export const data = [
     official_career: "1947-1973",
   },
   {
-    id: 16,
+    id: 15,
     name: "Eusebio",
     img: "https://pbs.twimg.com/media/BdOOUhWCMAASvOW.jpg:large",
     statistics: ["79 Matches", "59 Goals", "2 Assists", "17 Cups"],
@@ -132,7 +132,7 @@ export const data = [
     official_career: "1960-1979",
   },
   {
-    id: 17,
+    id: 16,
     name: "Ferenc Puskas",
     img: "https://i.pinimg.com/originals/75/3b/75/753b75eb69bcc9d3ef9dbd9b3766a94a.jpg",
     statistics: ["240 Matches", "208 Goals", "404 Assists", "15 Cups"],
@@ -141,7 +141,7 @@ export const data = [
     official_career: "1942-1967",
   },
   {
-    id: 18,
+    id: 17,
     name: "Francisco 'Paco' Gento",
     img: "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/7HQY5A5F4FMHLEEM6M63RP42N4.jpg",
     statistics: ["565 Matches", "168 Goals", "3 Assists", "22 Cups"],
@@ -150,7 +150,7 @@ export const data = [
     official_career: "1953-1972",
   },
   {
-    id: 19,
+    id: 18,
     name: "Franco Baresi",
     img: "https://s.hs-data.com/bilder/spieler/gross/6301.jpg",
     statistics: ["716 Matches", "33 Goals", "24 Assists", "22 Cups"],
@@ -159,7 +159,7 @@ export const data = [
     official_career: "1977-1998",
   },
   {
-    id: 20,
+    id: 19,
     name: "Franz Beckenbauer",
     img: "https://upload.wikimedia.org/wikipedia/commons/5/54/Franz_Beckenbauer_22-6-74.png",
     statistics: ["620 Matches", "74 Goals", "75 Assists", "19 Cups"],
@@ -168,7 +168,7 @@ export const data = [
     official_career: "1964-1984",
   },
   {
-    id: 21,
+    id: 20,
     name: "Fritz Walter",
     img: "https://image.jimcdn.com/app/cms/image/transf/dimension=333x1024:format=jpg/path/s703a89b2e5a5d70f/image/ib6c95d7f10e5dac4/version/1595574253/image.jpg",
     statistics: ["321 Matches", "235 Goals", "6 Assists", "3 Cups"],
@@ -177,7 +177,7 @@ export const data = [
     official_career: "1937-1960",
   },
   {
-    id: 22,
+    id: 21,
     name: "Gerd Muller",
     img: "https://i.pinimg.com/originals/91/21/99/912199dbae39915a3089d6f33e1c20cc.jpg",
     statistics: ["611 Matches", "568 Goals", "102 Assists", "15 Cups"],
@@ -186,7 +186,7 @@ export const data = [
     official_career: "1963-1983",
   },
   {
-    id: 23,
+    id: 22,
     name: "George Best",
     img: "https://cdn.artphotolimited.com/images/5f60bc53bd40b8173f11e855/1000x1000/coventry-1-man-utd-2.jpg",
     statistics: ["463	Matches", "167 Goals", "12 Assists", "6 Cups"],
@@ -195,7 +195,7 @@ export const data = [
     official_career: "1961-1985",
   },
   {
-    id: 24,
+    id: 23,
     name: "Gheorghe Hagi",
     img: "https://pbs.twimg.com/media/EYpRhB5XYAAa9Ll.jpg:large",
     statistics: ["427 Matches", "136 Goals", "87 Assists", "19 Cups"],
@@ -204,7 +204,7 @@ export const data = [
     official_career: "1982-2002",
   },
   {
-    id: 25,
+    id: 24,
     name: "Giacinto Facchetti",
     img: "https://pbs.twimg.com/media/EQ4rZ64X0AAE-gi.jpg",
     statistics: ["637 Matches", "76 Goals", "3 Assists", "10 Cups"],
@@ -213,7 +213,7 @@ export const data = [
     official_career: "1960-1979",
   },
   {
-    id: 26,
+    id: 25,
     name: "Gianni Rivera",
     img: "https://s.hs-data.com/bilder/spieler/gross/1813.jpg",
     statistics: ["680 Matches", "169 Goals", "158 Assists", "13 Cups"],
@@ -222,7 +222,7 @@ export const data = [
     official_career: "1958-1979",
   },
   {
-    id: 27,
+    id: 26,
     name: "Giorgio Chiellini",
     img: "https://i.pinimg.com/736x/66/12/aa/6612aa81ed50b70d191d74c02ed92677.jpg",
     statistics: ["710 Matches", "44 Goals", "29 Assists", "25 Cups"],
@@ -231,7 +231,7 @@ export const data = [
     official_career: "2000-2024",
   },
   {
-    id: 28,
+    id: 27,
     name: "Giuseppe Meazza",
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Giuseppe_Meazza_-_AS_Ambrosiana_1930-31.jpg/219px-Giuseppe_Meazza_-_AS_Ambrosiana_1930-31.jpg",
     statistics: ["492 Matches", "307 Goals", "2 Assists", "6 Cups"],
@@ -240,7 +240,7 @@ export const data = [
     official_career: "1927-1948",
   },
   {
-    id: 29,
+    id: 28,
     name: "Gunter Netzer",
     img: "https://www.hall-of-fame-sport.de/fileadmin/Website_Hall_of_Fame/Mitglieder/Netzer_Guenter/netzer_guenter_gallery_1_6334272_980px.jpg",
     statistics: ["494 Matches", "153 Goals", "76 Assists", "9 Cups"],
@@ -249,7 +249,7 @@ export const data = [
     official_career: "1963-1977",
   },
   {
-    id: 30,
+    id: 29,
     name: "Hugo Sanchez",
     img: "https://m.psecn.photoshelter.com/img-get2/I0000SKWR2G7.qqc/fit=1000x750/CM15101.jpg",
     statistics: ["505 Matches", "308 Goals", "41 Assists", "19 Cups"],
@@ -258,7 +258,7 @@ export const data = [
     official_career: "1979-1998",
   },
   {
-    id: 31,
+    id: 30,
     name: "Javier Zanetti",
     img: "https://i2-prod.dailystar.co.uk/incoming/article19745388.ece/ALTERNATES/s615b/80537",
     statistics: ["858 Matches", "21 Goals", "37 Assists", "17 Cups"],
@@ -267,7 +267,7 @@ export const data = [
     official_career: "1992-2014",
   },
   {
-    id: 32,
+    id: 31,
     name: "Jairzinho",
     img: "https://i.pinimg.com/736x/1b/e2/11/1be211deecc35e6a09df7522b4a28caa.jpg",
     statistics: ["63 Matches", "34 Goals", "7 Assists", "7 Cups"],
@@ -275,7 +275,7 @@ export const data = [
     official_career: "1959-1984",
   },
   {
-    id: 33,
+    id: 32,
     name: "Johan Cruyff",
     img: "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/213_cruyff.jpg",
     statistics: ["582 Matches", "349 Goals", "193 Assists", "22 Cups"],
@@ -284,7 +284,7 @@ export const data = [
     official_career: "1964-1985",
   },
   {
-    id: 34,
+    id: 33,
     name: "Kaka",
     img: "https://i.pinimg.com/originals/ff/59/c1/ff59c131d01b04a914df4be2568e64de.jpg",
     statistics: ["559 Matches", "185 Goals", "147 Assists", "11 Cups"],
@@ -292,7 +292,7 @@ export const data = [
     official_career: "2000-2017",
   },
   {
-    id: 35,
+    id: 34,
     name: "Kenny Dalglish",
     img: "https://i.pinimg.com/736x/f9/70/28/f97028863ea3aec76f346cb10176afc1.jpg",
     statistics: ["530 Matches", "173 Goals", "181 Assists", "34 Cups"],
@@ -302,7 +302,7 @@ export const data = [
   },
  
   {
-    id: 38,
+    id: 35,
     name: "Lionel Messi",
     img: "https://image.gala.de/23021440/t/RP/v12/w2048/r0.6667/-/lionel-messi.jpg",
     statistics: ["891 Matches", "722 Goals", "345 Assists", "43 Cups"],
@@ -311,7 +311,7 @@ export const data = [
     official_career: "2000-Present",
   },
   {
-    id: 39,
+    id: 36,
     name: "Lothar Matthaus",
     img: "https://media0.faz.net/ppmedia/aktuell/2273256667/1.5303182/width610x580/waere-waere-fahrradkette-wer.jpg",
     statistics: ["785 Matches", "204 Goals", "63 Assists", "20 Cups"],
@@ -320,7 +320,7 @@ export const data = [
     official_career: "1975-2001",
   },
   {
-    id: 40,
+    id: 37,
     name: "Luis Figo",
     img: "https://i.pinimg.com/474x/88/67/5d/88675d9757b2dc8e35e8cdc1b965d174.jpg",
     statistics: ["664 Matches", "123 Goals", "193 Assists", "27 Cups"],
@@ -328,7 +328,7 @@ export const data = [
     official_career: "1987-2010",
   },
   {
-    id: 41,
+    id: 38,
     name: "Luka Modric",
     img: "https://i.pinimg.com/originals/da/6e/42/da6e42911b1117b5e31e04a0085e04d2.jpg",
     statistics: ["771 Matches", "85 Goals", "129 Assists", "29 Cups"],
@@ -337,7 +337,7 @@ export const data = [
     official_career: "2000-Present",
   },
   {
-    id: 42,
+    id: 39,
     name: "Mane Garrincha",
     img: "https://i.pinimg.com/474x/e1/8e/65/e18e657620c1537362d13e02a3e81e1d.jpg",
     statistics: ["345 Matches", "102 Goals", "8 Assists", "15 Cups"],
@@ -346,7 +346,7 @@ export const data = [
     official_career: "1952-1973",
   },
   {
-    id: 43,
+    id: 40,
     name: "Marco van Basten",
     img: "https://i.pinimg.com/736x/a1/e8/57/a1e857912331fd12ce6cceabd5f14720.jpg",
     statistics: ["373 Matches", "277 Goals", "83 Assists", "19 Cups"],
@@ -355,7 +355,7 @@ export const data = [
     official_career: "1981-1996",
   },
   {
-    id: 44,
+    id: 41,
     name: "Mesut Özil",
     img: "https://i.pinimg.com/originals/2e/77/41/2e774194404a1b97c6bf0638f5f8be4b.jpg",
     statistics: ["645 Matches", "114 Goals", "222 Assists", "13 Cups"],
@@ -363,7 +363,7 @@ export const data = [
     official_career: "1998-2023",
   },
   {
-    id: 45,
+    id: 42,
     name: "Michael Ballack",
     img: "https://i.pinimg.com/736x/1c/6b/79/1c6b79d2a1de57790fc26067e9497c9d.jpg",
     statistics: ["604 Matches", "152 Goals", "93 Assists", "17 Cups"],
@@ -372,7 +372,7 @@ export const data = [
     official_career: "1991-2013",
   },
   {
-    id: 46,
+    id: 43,
     name: "Michael Laudrup",
     img: "https://media.lex.dk/media/167338/standard_compressed_19990125-071237-pf-2364x3312ma.jpg",
     statistics: ["567 Matches", "132 Goals", "50 Assists", "16 Cups"],
@@ -381,7 +381,7 @@ export const data = [
     official_career: "1981-1998",
   },
   {
-    id: 47,
+    id: 44,
     name: "Michel Platini",
     img: "https://s.hs-data.com/bilder/spieler/gross/1808.jpg",
     statistics: ["550 Matches", "297 Goals", "49 Assists", "11 Cups"],
@@ -391,7 +391,7 @@ export const data = [
   },
   
   {
-    id: 49,
+    id: 45,
     name: "Mohamed Salah",
     img: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fce03c9aa-a463-11ec-9909-6547dd4945b7.jpg?crop=3179%2C4768%2C634%2C199",
     statistics: ["584 Matches", "282 Goals", "142 Assists", "12 Cups"],
@@ -400,7 +400,7 @@ export const data = [
     official_career: "2009-Present",
   },
   {
-    id: 50,
+    id: 46,
     name: "Neymar da Silva Santos Junior",
     img: "https://i.pinimg.com/474x/85/e3/a9/85e3a9edfc76d5e0373490f0b07e4cf7.jpg",
     statistics: ["506 Matches", "297 Goals", "193 Assists", "28 Cups"],
@@ -408,7 +408,7 @@ export const data = [
     official_career: "2008-Present",
   },
   {
-    id: 51,
+    id: 47,
     name: "Paolo Maldini",
     img: "https://www.bobsoccer.ru/imagepreview/view/data/photo/29762.115936.111.jpg",
     statistics: ["901 Matches", "33 Goals", "43 Assists", "26 Cups"],
@@ -417,7 +417,7 @@ export const data = [
     official_career: "1985-2010",
   },
   {
-    id: 52,
+    id: 48,
     name: "Paolo Rossi",
     img: "https://cdn.artphotolimited.com/images/5f60bc53bd40b8173f11e855/1000x1000/wc1982-final-italy-3-w-germany-1.jpg",
     statistics: ["340 Matches", "134 Goals", "29 Assists", "8 Cups"],
@@ -426,7 +426,7 @@ export const data = [
     official_career: "1966-1988",
   },
   {
-    id: 53,
+    id: 49,
     name: "Pele",
     img: "https://s.hs-data.com/bilder/spieler/gross/1749.jpg?fallback=png",
     statistics: ["1,367 Matches", "1279 Goals", "355 Assists", "26 Cups"],
@@ -434,7 +434,7 @@ export const data = [
     official_career: "1956-1978",
   },
   {
-    id: 54,
+    id: 50,
     name: "Philipp Lahm",
     img: "https://images.t-online.de/2021/07/81169372v2/0x0:1388x1920/fit-in/__WIDTH__x0/spiel-nummer-500-fuer-den-fc-bayern.jpg",
     statistics: ["659 Matches", "23 Goals", "77 Assists", "25 Cups"],
@@ -443,7 +443,7 @@ export const data = [
     official_career: "1995-2018",
   },
   {
-    id: 55,
+    id: 51,
     name: "Rivaldo",
     img: "https://img.r7.com/images/2014/03/15/89bsa3r2jw_5pboual2dm_file.jpg?dimensions=1200x1796",
     statistics: ["536 Matches", "235 Goals", "93 Assists", "20 Cups"],
@@ -451,7 +451,7 @@ export const data = [
     official_career: "1991-2016",
   },
   {
-    id: 56,
+    id: 52,
     name: "Robert Lewandowski",
     img: "https://img.volkskrant.nl/9396e8e12ecae830d1a858d9ea6476e8962728c3/robert-lewandowski-van-hinkende-hinde-tot-fenomenaal-topscorer",
     statistics: ["757 Matches", "560 Goals", "150 Assists", "28 Cups"],
@@ -460,7 +460,7 @@ export const data = [
     official_career: "2004-2023",
   },
   {
-    id: 57,
+    id: 53,
     name: "Roberto Baggio",
     img: "https://m.media-amazon.com/images/I/91BZnB9KEAL._AC_UY1000_.jpg",
     statistics: ["604 Matches", "277 Goals", "152 Assists", "4 Cups"],
@@ -469,7 +469,7 @@ export const data = [
     official_career: "1980-2004",
   },
   {
-    id: 58,
+    id: 54,
     name: "Roberto Carlos",
     img: "https://static.independent.co.uk/2021/07/27/00/50487c00f241745ff9cd122e8351cb00Y29udGVudHNlYXJjaGFwaSwxNjI3MzczOTMy-2.1829549.jpg",
     statistics: ["756 Matches", "97 Goals", "131 Assists", "23 Cups"],
@@ -478,7 +478,7 @@ export const data = [
     official_career: "1990-2016",
   },
   {
-    id: 59,
+    id: 55,
     name: "Robin van Persie",
     img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/11/12/Van-persie.jpg",
     statistics: ["595 Matches", "274 Goals", "102 Assists", "9 Cups"],
@@ -487,7 +487,7 @@ export const data = [
     official_career: "1996-2020",
   },
   {
-    id: 60,
+    id: 56,
     name: "Ronaldinho",
     img: "https://www.si.com/.image/t_share/MTY4MjYxNzg0MTI2NTYzNjA1/ronaldinhojpg.jpg",
     statistics: ["546 Matches", "197 Goals", "166 Assists", "12 Cups"],
@@ -495,7 +495,7 @@ export const data = [
     official_career: "1997-2018",
   },
   {
-    id: 61,
+    id: 57,
     name: "Ronaldo",
     img: "https://cdn.britannica.com/48/142848-050-2A6FC569/Ronaldo-2004.jpg",
     statistics: ["454 Matches", "298 Goals", "76 Assists", "18 Cups"],
@@ -503,7 +503,7 @@ export const data = [
     official_career: "1992-2011",
   },
   {
-    id: 62,
+    id: 58,
     name: "Romario",
     img: "https://m.psecn.photoshelter.com/img-get2/I0000jkony26vCUA/fit=1000x750/CM15123.jpg",
     statistics: ["284 Matches", "213 Goals", "35 Assists", "14 Cups"],
@@ -511,7 +511,7 @@ export const data = [
     official_career: "1980-2010",
   },
   {
-    id: 63,
+    id: 59,
     name: "Ruud Gullit",
     img: "https://i.etsystatic.com/29534914/r/il/3d73ff/3750814724/il_570xN.3750814724_i0aa.jpg",
     statistics: ["576 Matches", "219 Goals", "100 Assists", "18 Cups"],
@@ -520,7 +520,7 @@ export const data = [
     official_career: "1978-1999",
   },
   {
-    id: 64,
+    id: 60,
     name: "Samuel Eto",
     img: "https://cdn.britannica.com/73/139473-050-0C1E79C8/FC-Barcelona-match-ball-Samuel-Etoo-Champions-March-11-2009.jpg",
     statistics: ["728 Matches", "364 Goals", "118 Assists", "21 Cups"],
@@ -528,7 +528,7 @@ export const data = [
     official_career: "1996-2020",
   },
   {
-    id: 65,
+    id: 61,
     name: "Sergio Busquets",
     img: "https://i2-prod.mirror.co.uk/incoming/article30481608.ece/ALTERNATES/s615b/0_FC-Barcelona-v-Real-Betis-LaLiga-Santander.jpg",
     statistics: ["746 Matches", "18 Goals", "47 Assists", "35 Cups"],
@@ -537,7 +537,7 @@ export const data = [
     official_career: "2005-Present",
   },
   {
-    id: 66,
+    id: 62,
     name: "Sergio Ramos",
     img: "https://i.pinimg.com/736x/c2/48/c6/c248c60dc144a0eff4b3e2b83922919f.jpg",
     statistics: ["804 Matches", "115 Goals", "42 Assists", "29 Cups"],
@@ -546,7 +546,7 @@ export const data = [
     official_career: "2002-Present",
   },
   {
-    id: 67,
+    id: 63,
     name: "Stanley Matthews",
     img: "https://www.thenorthernecho.co.uk/resources/images/4370613.jpg?display=1&htype=117&type=responsive-gallery",
     statistics: ["188 Matches", "9 Goals", "1 Assists", "1 Cups"],
@@ -555,7 +555,7 @@ export const data = [
     official_career: "1934-1966",
   },
   {
-    id: 68,
+    id: 64,
     name: "Thomas Muller",
     img: "https://www.fr.de/assets/images/33/384/33384597-drueckt-dem-muenchener-spiel-immer-seltener-seinen-stempel-auf-thomas-mueller-2uJtsPltWAec.jpg",
     statistics: ["782 Matches", "279 Goals", "269 Assists", "33 Cups"],
@@ -564,7 +564,7 @@ export const data = [
     official_career: "2000-Present",
   },
   {
-    id: 69,
+    id: 65,
     name: "Thierry Henry",
     img: "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/16/1418730991701/dd9d62fa-2f65-4e41-8c3f-0de5f7feeb5f-1325x2040.jpeg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffab947c9bec9dca05f6c1d4e0267a1a",
     statistics: ["794 Matches", "360 Goals", "177 Assists", "20 Cups"],
@@ -573,7 +573,7 @@ export const data = [
     official_career: "1992-2015",
   },
   {
-    id: 70,
+    id: 66,
     name: "Toni Kroos",
     img: "https://pbs.twimg.com/media/CPkxTCgWoAAYv-d.jpg",
     statistics: ["739 Matches", "73 Goals", "163 Assists", "33 Cups"],
@@ -581,7 +581,7 @@ export const data = [
     official_career: "2002-Present",
   },
   {
-    id: 71,
+    id: 67,
     name: "Wesley Sneijder",
     img: "https://img.piri.net/resim/iha/image/2019/08/12/A777401_03.jpg",
     statistics: ["577 Matches", "154 Goals", "145 Assists", "21 Cups"],
@@ -590,7 +590,7 @@ export const data = [
     official_career: "1999-2020",
   },
   {
-    id: 72,
+    id: 68,
     name: "Wayne Rooney",
     img: "https://im.rediff.com/cricket/2015/jul/21rooney.jpg",
     statistics: ["764 Matches", "313 Goals", "170 Assists", "18 Cups"],
@@ -599,7 +599,7 @@ export const data = [
     official_career: "2001-2021",
   },
   {
-    id: 73,
+    id: 69,
     name: "Xavi",
     img: "https://cdn.britannica.com/72/139472-050-E733BAAF/Xavi-FC-Barcelona-football-match-2009.jpg",
     statistics: ["928 Matches", "111 Goals", "216 Assists", "32 Cups"],
@@ -607,7 +607,7 @@ export const data = [
     official_career: "1995-2020",
   },
   {
-    id: 74,
+    id: 70,
     name: "Zico",
     img: "https://media1.faz.net/ppmedia/aktuell/3510591925/1.2985617/default-retina/zico-bejubelt-seinen-treffer.jpg",
     statistics: ["113 Matches", "67 Goals", "12 Assists", "7 Cups"],
@@ -615,7 +615,7 @@ export const data = [
     official_career: "1971-1995",
   },
   {
-    id: 75,
+    id: 71,
     name: "Zinedine Zidane",
     img: "https://cdn.artphotolimited.com/images/5a09bb8dcfe9056714cea41c/1000x1000/zinedine-zidane-2-2008-couleur.jpg",
     statistics: ["689 Matches", "125 Goals", "141 Assists", "23 Cups"],

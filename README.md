@@ -1,5 +1,17 @@
-## Football Legends
+# Football Legends Application
 
-#### React Bootstrap
+This application is a React-based football legends application. Users can search for football legends and filter the list accordingly.
 
-- https://medium.com/@anthonyharold67/react-bootstrap-react-i%CC%87le-g%C3%BC%C3%A7lendirilmi%C5%9F-bootstrap-a54dc5394145
+## Demo
+
+👉 You can access the live demo [here](https://react-footballlegends-app.netlify.app/).
+
+<p align="center">
+  <img src="./project.gif" alt="Project Gif Demo" width="600"/>
+</p>
+
+## Features
+
+- List of football legends
+- Filtering with search box
+- Detailed information for each player

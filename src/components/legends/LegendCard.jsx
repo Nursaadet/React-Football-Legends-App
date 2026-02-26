@@ -1,15 +1,24 @@
 import { useState } from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
 const LegendCard = ({ Legend }) => {
   const [show, setShow] = useState(false);
-//   console.log(show);
-//   console.log(Legend);
+  //   console.log(show);
+  //   console.log(Legend);
   return (
     <Col>
-      <Card onClick={() => setShow(!show)}>
+      <Card
+        className="player-card"
+        role="button"
+        onClick={() => setShow(!show)}
+      >
         {!show ? (
-          <Card.Img variant="top" src={Legend.img} />
+          <Card.Img
+            variant="top"
+            src={Legend.img}
+            title={Legend.name}
+            alt={Legend.name}
+          />
         ) : (
           <>
             <Card.Header>

@@ -407,17 +407,9 @@ export const data = [
     profile: "https://www.transfermarkt.com.tr/neymar/profil/spieler/68290",
     official_career: "2008-Present",
   },
+  
   {
     id: 47,
-    name: "Paolo Maldini",
-    img: "https://www.bobsoccer.ru/imagepreview/view/data/photo/29762.115936.111.jpg",
-    statistics: ["901 Matches", "33 Goals", "43 Assists", "26 Cups"],
-    profile:
-      "https://www.transfermarkt.com.tr/paolo-maldini/profil/spieler/5803",
-    official_career: "1985-2010",
-  },
-  {
-    id: 48,
     name: "Paolo Rossi",
     img: "https://cdn.artphotolimited.com/images/5f60bc53bd40b8173f11e855/1000x1000/wc1982-final-italy-3-w-germany-1.jpg",
     statistics: ["340 Matches", "134 Goals", "29 Assists", "8 Cups"],
@@ -426,7 +418,7 @@ export const data = [
     official_career: "1966-1988",
   },
   {
-    id: 49,
+    id: 48,
     name: "Pele",
     img: "https://s.hs-data.com/bilder/spieler/gross/1749.jpg?fallback=png",
     statistics: ["1,367 Matches", "1279 Goals", "355 Assists", "26 Cups"],
@@ -434,7 +426,7 @@ export const data = [
     official_career: "1956-1978",
   },
   {
-    id: 50,
+    id: 49,
     name: "Philipp Lahm",
     img: "https://images.t-online.de/2021/07/81169372v2/0x0:1388x1920/fit-in/__WIDTH__x0/spiel-nummer-500-fuer-den-fc-bayern.jpg",
     statistics: ["659 Matches", "23 Goals", "77 Assists", "25 Cups"],
@@ -443,7 +435,7 @@ export const data = [
     official_career: "1995-2018",
   },
   {
-    id: 51,
+    id: 50,
     name: "Rivaldo",
     img: "https://img.r7.com/images/2014/03/15/89bsa3r2jw_5pboual2dm_file.jpg?dimensions=1200x1796",
     statistics: ["536 Matches", "235 Goals", "93 Assists", "20 Cups"],
@@ -451,7 +443,7 @@ export const data = [
     official_career: "1991-2016",
   },
   {
-    id: 52,
+    id: 51,
     name: "Robert Lewandowski",
     img: "https://img.volkskrant.nl/9396e8e12ecae830d1a858d9ea6476e8962728c3/robert-lewandowski-van-hinkende-hinde-tot-fenomenaal-topscorer",
     statistics: ["757 Matches", "560 Goals", "150 Assists", "28 Cups"],
@@ -460,7 +452,7 @@ export const data = [
     official_career: "2004-2023",
   },
   {
-    id: 53,
+    id: 52,
     name: "Roberto Baggio",
     img: "https://m.media-amazon.com/images/I/91BZnB9KEAL._AC_UY1000_.jpg",
     statistics: ["604 Matches", "277 Goals", "152 Assists", "4 Cups"],
@@ -469,7 +461,7 @@ export const data = [
     official_career: "1980-2004",
   },
   {
-    id: 54,
+    id: 53,
     name: "Roberto Carlos",
     img: "https://static.independent.co.uk/2021/07/27/00/50487c00f241745ff9cd122e8351cb00Y29udGVudHNlYXJjaGFwaSwxNjI3MzczOTMy-2.1829549.jpg",
     statistics: ["756 Matches", "97 Goals", "131 Assists", "23 Cups"],
@@ -478,7 +470,7 @@ export const data = [
     official_career: "1990-2016",
   },
   {
-    id: 55,
+    id: 54,
     name: "Robin van Persie",
     img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/11/12/Van-persie.jpg",
     statistics: ["595 Matches", "274 Goals", "102 Assists", "9 Cups"],
@@ -487,7 +479,7 @@ export const data = [
     official_career: "1996-2020",
   },
   {
-    id: 56,
+    id: 55,
     name: "Ronaldinho",
     img: "https://www.si.com/.image/t_share/MTY4MjYxNzg0MTI2NTYzNjA1/ronaldinhojpg.jpg",
     statistics: ["546 Matches", "197 Goals", "166 Assists", "12 Cups"],
@@ -495,7 +487,7 @@ export const data = [
     official_career: "1997-2018",
   },
   {
-    id: 57,
+    id: 56,
     name: "Ronaldo",
     img: "https://cdn.britannica.com/48/142848-050-2A6FC569/Ronaldo-2004.jpg",
     statistics: ["454 Matches", "298 Goals", "76 Assists", "18 Cups"],
@@ -503,7 +495,7 @@ export const data = [
     official_career: "1992-2011",
   },
   {
-    id: 58,
+    id: 57,
     name: "Romario",
     img: "https://m.psecn.photoshelter.com/img-get2/I0000jkony26vCUA/fit=1000x750/CM15123.jpg",
     statistics: ["284 Matches", "213 Goals", "35 Assists", "14 Cups"],
@@ -511,7 +503,7 @@ export const data = [
     official_career: "1980-2010",
   },
   {
-    id: 59,
+    id: 58,
     name: "Ruud Gullit",
     img: "https://i.etsystatic.com/29534914/r/il/3d73ff/3750814724/il_570xN.3750814724_i0aa.jpg",
     statistics: ["576 Matches", "219 Goals", "100 Assists", "18 Cups"],
@@ -520,7 +512,7 @@ export const data = [
     official_career: "1978-1999",
   },
   {
-    id: 60,
+    id: 59,
     name: "Samuel Eto",
     img: "https://cdn.britannica.com/73/139473-050-0C1E79C8/FC-Barcelona-match-ball-Samuel-Etoo-Champions-March-11-2009.jpg",
     statistics: ["728 Matches", "364 Goals", "118 Assists", "21 Cups"],
@@ -528,7 +520,7 @@ export const data = [
     official_career: "1996-2020",
   },
   {
-    id: 61,
+    id: 60,
     name: "Sergio Busquets",
     img: "https://i2-prod.mirror.co.uk/incoming/article30481608.ece/ALTERNATES/s615b/0_FC-Barcelona-v-Real-Betis-LaLiga-Santander.jpg",
     statistics: ["746 Matches", "18 Goals", "47 Assists", "35 Cups"],
@@ -537,7 +529,7 @@ export const data = [
     official_career: "2005-Present",
   },
   {
-    id: 62,
+    id: 61,
     name: "Sergio Ramos",
     img: "https://i.pinimg.com/736x/c2/48/c6/c248c60dc144a0eff4b3e2b83922919f.jpg",
     statistics: ["804 Matches", "115 Goals", "42 Assists", "29 Cups"],
@@ -546,7 +538,7 @@ export const data = [
     official_career: "2002-Present",
   },
   {
-    id: 63,
+    id: 62,
     name: "Stanley Matthews",
     img: "https://www.thenorthernecho.co.uk/resources/images/4370613.jpg?display=1&htype=117&type=responsive-gallery",
     statistics: ["188 Matches", "9 Goals", "1 Assists", "1 Cups"],
@@ -555,7 +547,7 @@ export const data = [
     official_career: "1934-1966",
   },
   {
-    id: 64,
+    id: 63,
     name: "Thomas Muller",
     img: "https://www.fr.de/assets/images/33/384/33384597-drueckt-dem-muenchener-spiel-immer-seltener-seinen-stempel-auf-thomas-mueller-2uJtsPltWAec.jpg",
     statistics: ["782 Matches", "279 Goals", "269 Assists", "33 Cups"],
@@ -564,7 +556,7 @@ export const data = [
     official_career: "2000-Present",
   },
   {
-    id: 65,
+    id: 64,
     name: "Thierry Henry",
     img: "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/16/1418730991701/dd9d62fa-2f65-4e41-8c3f-0de5f7feeb5f-1325x2040.jpeg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffab947c9bec9dca05f6c1d4e0267a1a",
     statistics: ["794 Matches", "360 Goals", "177 Assists", "20 Cups"],
@@ -573,7 +565,7 @@ export const data = [
     official_career: "1992-2015",
   },
   {
-    id: 66,
+    id: 65,
     name: "Toni Kroos",
     img: "https://pbs.twimg.com/media/CPkxTCgWoAAYv-d.jpg",
     statistics: ["739 Matches", "73 Goals", "163 Assists", "33 Cups"],
@@ -581,7 +573,7 @@ export const data = [
     official_career: "2002-Present",
   },
   {
-    id: 67,
+    id: 66,
     name: "Wesley Sneijder",
     img: "https://img.piri.net/resim/iha/image/2019/08/12/A777401_03.jpg",
     statistics: ["577 Matches", "154 Goals", "145 Assists", "21 Cups"],
@@ -590,7 +582,7 @@ export const data = [
     official_career: "1999-2020",
   },
   {
-    id: 68,
+    id: 67,
     name: "Wayne Rooney",
     img: "https://im.rediff.com/cricket/2015/jul/21rooney.jpg",
     statistics: ["764 Matches", "313 Goals", "170 Assists", "18 Cups"],
@@ -599,7 +591,7 @@ export const data = [
     official_career: "2001-2021",
   },
   {
-    id: 69,
+    id: 68,
     name: "Xavi",
     img: "https://cdn.britannica.com/72/139472-050-E733BAAF/Xavi-FC-Barcelona-football-match-2009.jpg",
     statistics: ["928 Matches", "111 Goals", "216 Assists", "32 Cups"],
@@ -607,7 +599,7 @@ export const data = [
     official_career: "1995-2020",
   },
   {
-    id: 70,
+    id: 69,
     name: "Zico",
     img: "https://media1.faz.net/ppmedia/aktuell/3510591925/1.2985617/default-retina/zico-bejubelt-seinen-treffer.jpg",
     statistics: ["113 Matches", "67 Goals", "12 Assists", "7 Cups"],
@@ -615,7 +607,7 @@ export const data = [
     official_career: "1971-1995",
   },
   {
-    id: 71,
+    id: 70,
     name: "Zinedine Zidane",
     img: "https://cdn.artphotolimited.com/images/5a09bb8dcfe9056714cea41c/1000x1000/zinedine-zidane-2-2008-couleur.jpg",
     statistics: ["689 Matches", "125 Goals", "141 Assists", "23 Cups"],
